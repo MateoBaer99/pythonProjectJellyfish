@@ -119,13 +119,9 @@ def supprimerAlerte(id):
 
 
 
-
-
-
 creerAlerte()
 afficherAlertes()
 #supprimerAlerte(2)
-
 
 
 
